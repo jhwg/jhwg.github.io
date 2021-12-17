@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dr. Jinghua Wang's website
 
 You can use the [editor on GitHub](https://github.com/j-h-wang/j-h-wang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
