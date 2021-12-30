@@ -2272,13 +2272,3 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-/* Static Footer */
-
-#staticfooter {
-  position:fixed;
-  bottom:0;
-  left:0;
-  width:100%;
-  height: 90px;
-  background-color: #D0DAEE;
-}
