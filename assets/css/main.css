@@ -2274,7 +2274,7 @@ button,
 
 /* Static Footer */
 
-.staticfooter {
+#staticfooter {
   position:fixed;
   bottom:0;
   left:0;
