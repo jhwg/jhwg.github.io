@@ -9,22 +9,24 @@
   background-color: #f2f7ff;
 }
 
-.staticfooter-vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
 
 .staticfooter-text-left {
   font-size:15px;
   padding-left:40px;
   float:left;
   word-spacing:20px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);  
 }
 
 .staticfooter-content-right {
   float:right;
-
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
