@@ -16,3 +16,8 @@
   word-spacing:20px;
 }
 
+.staticfooter-content-right {
+  padding-right:40px;
+  margin-top:20px;
+  float:right;
+}
