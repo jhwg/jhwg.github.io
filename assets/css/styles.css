@@ -10,14 +10,13 @@
 }
 
 .staticfooter-text-left {
-  font-size:25px;
+  font-size:15px;
   padding-left:40px;
   float:left;
   word-spacing:20px;
 }
 
 .staticfooter-content-right {
-  padding-right:40px;
-  margin-top:20px;
+
   float:right;
 }
